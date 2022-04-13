@@ -1,5 +1,5 @@
 var appShellFiles = [
-    '/Hector-Cruz-Ramirez-Prueva/article.html',
+    /*'/Hector-Cruz-Ramirez-Prueva/article.html',
     '/Hector-Cruz-Ramirez-Prueva/about.html',
     '/Hector-Cruz-Ramirez-Prueva/category.html',
     '/Hector-Cruz-Ramirez-Prueva/docs.html',
@@ -20,7 +20,7 @@ var appShellFiles = [
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/blog6.jpg',
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/blog8.jpg',
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/home.jpg',
-    '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/sal.jpg',
+    '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/sal.jpg',*/
 ];
 
 self.addEventListener('install', event => {
