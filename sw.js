@@ -5,7 +5,7 @@ var appShellFiles = [
     '/Hector-Cruz-Ramirez-Prueva/docs.html',
     '/Hector-Cruz-Ramirez-Prueva/index.html',
     '/Hector-Cruz-Ramirez-Prueva/assets/img/screenshot-mundana-article.png',
-    '/Hector-Cruz-Ramirez-Prueva/assets/js/aos.js',
+    //'/Hector-Cruz-Ramirez-Prueva/assets/js/aos.js',
     '/Hector-Cruz-Ramirez-Prueva/assets/js/bootstrap-toc.js',
     '/Hector-Cruz-Ramirez-Prueva/assets/js/jquery.min.js',
     '/Hector-Cruz-Ramirez-Prueva/assets/js/prism.js',
