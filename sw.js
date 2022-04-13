@@ -4,7 +4,7 @@ var appShellFiles = [
     '/Hector-Cruz-Ramirez-Prueva/category.html',
     '/Hector-Cruz-Ramirez-Prueva/docs.html',
     '/Hector-Cruz-Ramirez-Prueva/index.html',
-    '/Hector-Cruz-Ramirez-Prueva/assets/img/screenshot-mundana-article.png',
+    /*'/Hector-Cruz-Ramirez-Prueva/assets/img/screenshot-mundana-article.png',
     //'/Hector-Cruz-Ramirez-Prueva/assets/js/aos.js',
     //'/Hector-Cruz-Ramirez-Prueva/assets/js/bootstrap-toc.js',
     //'/Hector-Cruz-Ramirez-Prueva/assets/js/jquery.min.js',
@@ -20,7 +20,7 @@ var appShellFiles = [
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/blog6.jpg',
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/blog8.jpg',
     '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/home.jpg',
-    '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/sal.jpg',
+    '/Hector-Cruz-Ramirez-Prueva/assets/img/demo/sal.jpg',*/
 ];
 
 self.addEventListener('install', event => {
